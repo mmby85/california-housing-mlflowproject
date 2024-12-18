@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/docker-run/mlruns/926791723215987367/435fcdc63b4e4a7e9ed5bc43784718e1/artifacts
+end_time: 1734553889072
+entry_point_name: ''
+experiment_id: '926791723215987367'
+lifecycle_stage: active
+run_id: 435fcdc63b4e4a7e9ed5bc43784718e1
+run_name: adorable-fawn-113
+run_uuid: 435fcdc63b4e4a7e9ed5bc43784718e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734553882328
+status: 3
+tags: []
+user_id: ubuntu

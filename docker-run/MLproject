@@ -1,0 +1,10 @@
+name: Linear Regression Example
+
+docker_env: 
+  image: mlflow-run
+
+
+entry_points:
+  main:
+    command: "python3 california-housing.py"
+
