@@ -1,0 +1,11 @@
+name: Linear Regression Example
+
+conda_env : conda.yaml
+
+entry_points:
+  main:
+    # parameters:
+    #   alpha: {type: float, default: 0.5}  # Paramètre avec une valeur par défaut
+    #   l1_ratio: {type: float, default: 0.01}
+    command: "python california-housing.py"
+
