@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/86083be654454c5b8e9a4129aaf26a3b/artifacts
+end_time: 1734550400579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86083be654454c5b8e9a4129aaf26a3b
+run_name: adaptable-whale-895
+run_uuid: 86083be654454c5b8e9a4129aaf26a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734550399845
+status: 4
+tags: []
+user_id: ubuntu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/8e2424fab041408fad741f7fe692517c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e2424fab041408fad741f7fe692517c
+run_name: rogue-bee-616
+run_uuid: 8e2424fab041408fad741f7fe692517c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734543616001
+status: 1
+tags: []
+user_id: ubuntu

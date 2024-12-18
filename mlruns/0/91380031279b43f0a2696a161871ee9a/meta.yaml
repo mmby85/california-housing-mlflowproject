@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/91380031279b43f0a2696a161871ee9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91380031279b43f0a2696a161871ee9a
+run_name: secretive-roo-214
+run_uuid: 91380031279b43f0a2696a161871ee9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734544921185
+status: 1
+tags: []
+user_id: ubuntu

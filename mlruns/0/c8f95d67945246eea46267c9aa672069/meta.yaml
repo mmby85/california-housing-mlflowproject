@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/c8f95d67945246eea46267c9aa672069/artifacts
+end_time: 1734548819809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8f95d67945246eea46267c9aa672069
+run_name: adorable-quail-593
+run_uuid: c8f95d67945246eea46267c9aa672069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734548819031
+status: 4
+tags: []
+user_id: ubuntu

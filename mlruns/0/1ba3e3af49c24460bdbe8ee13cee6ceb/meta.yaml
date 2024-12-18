@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/1ba3e3af49c24460bdbe8ee13cee6ceb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ba3e3af49c24460bdbe8ee13cee6ceb
+run_name: salty-squirrel-372
+run_uuid: 1ba3e3af49c24460bdbe8ee13cee6ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734544405712
+status: 1
+tags: []
+user_id: ubuntu

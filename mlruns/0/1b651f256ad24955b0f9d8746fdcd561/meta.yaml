@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/1b651f256ad24955b0f9d8746fdcd561/artifacts
+end_time: 1734548852463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b651f256ad24955b0f9d8746fdcd561
+run_name: marvelous-swan-526
+run_uuid: 1b651f256ad24955b0f9d8746fdcd561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734548851756
+status: 4
+tags: []
+user_id: ubuntu

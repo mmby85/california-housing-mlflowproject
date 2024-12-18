@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Mongi/california-housing-mlflowproject/mlruns/0/4e88fb72eb5346718dc1cb751449306f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e88fb72eb5346718dc1cb751449306f
+run_name: adorable-cub-499
+run_uuid: 4e88fb72eb5346718dc1cb751449306f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734545166876
+status: 1
+tags: []
+user_id: ubuntu
